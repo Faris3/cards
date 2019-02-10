@@ -11,8 +11,8 @@ session_destroy();
     <title>Document</title>
 </head>
 <body>
-    <form   action="drawtwo.php" method="get">
-
-    </form>
+<form action="drawtwo.php" method="get">
+Draw 2 Cards <input type="submit" value="Draw">
+   </form>
 </body>
 </html>
